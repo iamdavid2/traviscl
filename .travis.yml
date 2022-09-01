@@ -1,6 +1,6 @@
 language: python
 python:
-  - "Python 3.7.13"  # nightly build
+  - "Python 3.7"  # nightly build
 # command to install dependencies
 install:
   - pip install -r requirements.txt
